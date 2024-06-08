@@ -6,3 +6,4 @@ brain-tumor-classification-mri/Training/.DS_Store
 *.h5
 .DS_Store
 combined/train/aug_no_tumor/1_aug_0.png
+*.pkl
