@@ -23,7 +23,7 @@ You can download the data from the following sources:
 2. **Combined Data:**
    - [Download Link](https://drive.google.com/drive/folders/1LZliDGpo7wjKdoFt90hny4DwsR5XXBo0?usp=share_link)
 
-#### Instructions
+### Instructions
 You can open the file MRI_Brain_Tumor.ipynb in Google Colab or use this [link](https://colab.research.google.com/drive/1vkfnGmyXDY02GhqtHJPt5MOrHkm1y-3H?usp=sharing).
 
 If you are using this project on your device, follow these steps:
