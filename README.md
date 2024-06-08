@@ -34,6 +34,6 @@ If you are using this project on your device, follow these steps:
 - Open the file MRI_Brain_Tumor.ipynb and start with the exploration
 
 #### Project structure
-- The trained models can be found in the MRI_Brain_Tumor.ipynb 
-- The combine_data.py is the script to combine the three datasets together
-- The dataaugmentation.ipynb file contains the code used to generate more image data, which is also included in the MRI_Brain_Tumor.ipynb file
+- The trained models can be found in the **MRI_Brain_Tumor.ipynb** file
+- The **combine_data.py** is the script to combine the three datasets together
+- The **dataaugmentation.ipynb** file contains the code used to generate more image data, which is also included in the MRI_Brain_Tumor.ipynb file
